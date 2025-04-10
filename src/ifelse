@@ -1,0 +1,17 @@
+class if else {
+    public static void main(String[] args) {
+        boolean isbool = true;
+        if(isbool){
+            System.out.println("hello");
+
+        }
+        else if(isbool && true){
+            System.out.println("byeee");
+
+        }
+        else{
+            System.out.println("hiiii");
+            
+        }
+    }
+}

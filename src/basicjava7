@@ -1,0 +1,9 @@
+class Hello{
+    public static void main(String[] args) {
+        int a = 'A'+32
+        System.out.println((char)a);
+      // int b =140;
+      // byte a =(byte)b;
+      // System.out.println(a);
+    }
+}
